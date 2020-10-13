@@ -13,3 +13,8 @@ Anti-Raid
 # How To Bypass
 
 **time.sleep(2)**
+
+
+# Cool Stuff
+
+embeds
